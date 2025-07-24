@@ -54,7 +54,7 @@ const Login: React.FC = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 p-4">
       <Card className="w-[400px] shadow-lg">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl">Alert Ticket Vision</CardTitle>
+          <CardTitle className="text-2xl">OpenArc</CardTitle>
           <CardDescription>Sign in to your account</CardDescription>
         </CardHeader>
         <form onSubmit={handleSubmit}>
